@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "无监督学习 - 聚类.md",
-                "mode": "source",
+                "file": "支持向量机 - SVM.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "无监督学习 - 聚类"
+              "title": "支持向量机 - SVM"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "支持向量机 - SVM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "支持向量机 - SVM 的反向链接列表"
             }
           },
           {
@@ -164,20 +164,30 @@
   },
   "active": "75117104e2c850a2",
   "lastOpenFiles": [
-    "正规方程.md",
-    "卷积神经网络 - CNN.md",
+    "无监督学习 - 聚类.md",
     "支持向量机 - SVM.md",
-    "线性分类器 - 感知机.md",
     "线性分类器 - Softmax.md",
-    "线性分类器 - FLD.md",
     "误差指标.md",
+    "统计-绪论，数据的收集与整理.md",
+    "统计-相关分析.md",
+    "线性分类器 - 感知机.md",
+    "卷积神经网络 - CNN.md",
+    "线性分类器 - FLD.md",
+    "统计-方差分析.md",
+    "神经网络 - 原理.md",
+    "确定型时间序列预测方法.md",
+    "神经网络 - 分类问题.md",
+    "模型选择问题.md",
+    "正规方程.md",
+    "预测概述、原理和概念.md",
+    "用户token.md",
+    "多元线性回归.md",
+    "非模型预测方法——指标预测法与概率预测法.md",
+    "非模型预测方法——专家预测法.md",
+    "分类问题 - 逻辑回归(Logistic Regression).md",
     "Pasted image 20241230220635.png",
     "Pasted image 20241230220044.png",
     "算法的性能表现 - 过拟合与欠拟合.md",
-    "多元线性回归.md",
-    "神经网络 - 分类问题.md",
-    "神经网络 - 原理.md",
-    "分类问题 - 逻辑回归(Logistic Regression).md",
     "机器学习，一元线性回归.md",
     "Pasted image 20241230213329.png",
     "Pasted image 20241230213249.png",
@@ -187,17 +197,8 @@
     "Pasted image 20241230212633.png",
     "Pasted image 20241230212445.png",
     "Pasted image 20241230212119.png",
-    "无监督学习 - 聚类.md",
-    "模型选择问题.md",
-    "用户token.md",
     "统计-假设检验.md",
     "统计-抽样与参数估计.md",
-    "计量经济学.md",
-    "统计-相关分析.md",
-    "统计-方差分析.md",
-    "统计-绪论，数据的收集与整理.md",
-    "确定型时间序列预测方法.md",
-    "非模型预测方法——指标预测法与概率预测法.md",
-    "非模型预测方法——专家预测法.md"
+    "计量经济学.md"
   ]
 }
